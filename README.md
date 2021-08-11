@@ -1,0 +1,2 @@
+# pythonProjectbasic
+basics of python
