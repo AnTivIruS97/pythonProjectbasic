@@ -8,3 +8,7 @@ def emp_max(working_hours):
             emp_name = emp
     return emp_name, cur_maxhrs
     print(emp_max(working_hours))
+
+def sum_num(a,b,c):
+    return sum((a,b,c))
+print(sum_num(10,20,30))
